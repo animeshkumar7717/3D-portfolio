@@ -1,91 +1,73 @@
-/*
-Websites:
-
-- https://github.com/pmndrs/gltfjsx (GLTF JSX for 3D Models)
-- https://lucide.dev/icons/ (Lucide Icons)
-- https://github.com/anuraghazra/github-readme-stats (Github Readme Stats)
-- https://skillicons.dev (Skill Icons to show skills)
-- https://github-readme-streak-stats.herokuapp.com (Github Readme Streak Stats)
-
-:root {
-  --background: 27 27 27;
-  --foreground: 225 225 225;
-  --muted: 115 115 115;
-  --accent: 254 254 91; #FEFE5B
-}
-
-*/
-
 export const projectsData = [
   {
     id: 1,
-    name: "EcoTracker",
+    name: "E-Commerse",
     description: "Track your carbon footprint",
     date: "2022-08-15",
-    demoLink: "https://ecotracker.example.com",
+    demoLink: "https://classy-banoffee-143f01.netlify.app/",
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
+    name: "Image Editor",
+    description: "users can use image link, and can modify there images",
     date: "2022-06-20",
-    demoLink: "https://artgalleryonline.example.com",
+    demoLink: "https://cozy-kitsune-a35ae8.netlify.app/",
   },
   {
     id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
+    name: "JavaScript Compiler",
+    description: "HTML, CSS and JS code editor",
     date: "2022-09-10",
-    demoLink: "https://budgetplanner.example.com",
+    demoLink: "https://dashing-quokka-d9f592.netlify.app/",
   },
   {
     id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
+    name: "BookStore",
+    description: "Read whatever books you wanted to read.",
     date: "2022-05-30",
-    demoLink: "https://healthbeat.example.com",
+    demoLink: "https://deluxe-lamington-54d9e8.netlify.app/",
   },
   {
     id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
+    name: "TRAVEL & TOUR",
+    description: "Discover and Enjoy tourist package in buget",
     date: "2022-07-12",
-    demoLink: "https://recipefinder.example.com",
+    demoLink: "https://melodic-crepe-2fd7c5.netlify.app/",
   },
   {
     id: 6,
-    name: "JourneyLogger",
-    description: "Log your travels",
+    name: "ToDo List",
+    description: "Write your plan",
     date: "2022-10-01",
-    demoLink: "https://journeylogger.example.com",
+    demoLink: "https://voluble-donut-06d9d1.netlify.app/",
   },
   {
     id: 7,
-    name: "StudyBuddy",
-    description: "Collaborative learning platform",
+    name: "Admin Dashboard",
+    description: "Display key performance indicators and metrics.",
     date: "2022-04-18",
-    demoLink: "https://studybuddy.example.com",
+    demoLink: "https://unique-marshmallow-bcde31.netlify.app/",
   },
   {
     id: 8,
-    name: "TechTalk",
-    description: "Tech news aggregator",
+    name: "Movie Watchlist",
+    description: "Search movie and add it in your watchlist",
     date: "2022-11-05",
-    demoLink: "https://techtalk.example.com",
+    demoLink: "https://authenticate-react-movie-app.netlify.app/",
   },
   {
     id: 9,
-    name: "FitTrack",
-    description: "Fitness and workout tracker",
+    name: "Timeline",
+    description: "A simple timeline of mine",
     date: "2022-03-22",
-    demoLink: "https://fittrack.example.com",
+    demoLink: "https://melodious-custard-cfc573.netlify.app/",
   },
   {
     id: 10,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
+    name: "GAME OF THRONES",
+    description: "POPULAR CHARACTER",
     date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
+    demoLink: "https://thunderous-crumble-3e6925.netlify.app/",
   },
 ];
 
@@ -96,28 +78,27 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://www.github.com/codebucks27",
+    link: "https://github.com/animeshkumar7717",
     icon: "github",
     newTab: true,
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/codebucks",
+    link: "https://www.linkedin.com/in/animeshkumar77/",
     icon: "linkedin",
     newTab: true,
   },
   {
     label: "X",
-    link: "https://www.x.com/code_bucks",
+    link: "https://twitter.com/anim1826",
     icon: "twitter",
     newTab: true,
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "/animesh-resume.pdf",
     icon: "resume",
     newTab: true,
   },
 ];
-
 
