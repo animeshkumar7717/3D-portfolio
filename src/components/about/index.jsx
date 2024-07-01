@@ -15,7 +15,7 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light text-xs sm:text-sm md:text-base">
-            Embarking on my quest in web development, I&apos;ve mastered a diverse array of powerful 
+            Embarking on my quest in web development, I have mastered a diverse array of powerful 
             tools and languages, with JavaScript serving as the core of my magic. With dexterity, 
             I wield frameworks like React.js and Next.js to forge seamless gateways (websites) that 
             connect users across the vast expanse of the digital cosmos. My journey also takes me 
