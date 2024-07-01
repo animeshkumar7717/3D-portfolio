@@ -84,4 +84,4 @@ I'm always open to new opportunities and collaborations. Feel free to connect wi
 - **LinkedIn:** [Animesh Kumar](https://www.linkedin.com/in/animeshkumar77/)
 - **Twitter:** [@animesh](https://twitter.com/anim1826)
 
-Feel free to explore my portfolio and reach out for any collaboration or inquiries. Thank you for visiting! 🚀✨
+Feel free to explore my portfolio and reach out for any collaboration or inquiries. Thank you for visiting!🚀✨
