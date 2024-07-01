@@ -11,22 +11,22 @@ const AboutDetails = () => {
             " col-span-full lg:col-span-8 row-span-2 flex-col items-start"
           }
         >
-          <h2 className="  text-xl md:text-2xl text-left w-full capitalize" style={{ color: '#FEFE5B' }}>
+          <h2 className="text-xl md:text-2xl text-left w-full capitalize" style={{ color: '#FEFE5B' }}>
             Architect of Enchantment
           </h2>
-          <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          Embarking on my quest in web development, I've mastered a diverse array of powerful 
-          tools and languages, with JavaScript serving as the core of my magic. With dexterity, 
-          I wield frameworks like React.js and Next.js to forge seamless gateways (websites) that 
-          connect users across the vast expanse of the digital cosmos. My journey also takes me 
-          deep into the realms of Node.js and Express, where I craft robust and scalable applications 
-          using the microservices architecture.
-          
-          Harnessing the timeless principles of the Jamstack and backed by the strength of MongoDB, 
-          I design and optimize databases to ensure every creation is fast, secure, and dynamically engaging. 
-          My keen eye for design ensures that every project I undertake is as visually captivating as it is 
-          functionally robust. Join me as I delve into new technologies and spells, continually shaping the 
-          future landscape of the web.
+          <p className="font-light text-xs sm:text-sm md:text-base">
+            Embarking on my quest in web development, I&apos;ve mastered a diverse array of powerful 
+            tools and languages, with JavaScript serving as the core of my magic. With dexterity, 
+            I wield frameworks like React.js and Next.js to forge seamless gateways (websites) that 
+            connect users across the vast expanse of the digital cosmos. My journey also takes me 
+            deep into the realms of Node.js and Express, where I craft robust and scalable applications 
+            using the microservices architecture.
+            
+            Harnessing the timeless principles of the Jamstack and backed by the strength of MongoDB, 
+            I design and optimize databases to ensure every creation is fast, secure, and dynamically engaging. 
+            My keen eye for design ensures that every project I undertake is as visually captivating as it is 
+            functionally robust. Join me as I delve into new technologies and spells, continually shaping the 
+            future landscape of the web.
           </p>
         </ItemLayout>
 
