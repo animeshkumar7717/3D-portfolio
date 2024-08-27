@@ -1,5 +1,12 @@
 export const projectsData = [
   {
+    id: 0,
+    name: "Blog",
+    description: "create, post and read blogs using next, quill and tailwind ",
+    date: "2024-08-15",
+    demoLink: "https://blog-hv0s.onrender.com/",
+  },
+  {
     id: 1,
     name: "E-Commerse",
     description: "Track your carbon footprint",

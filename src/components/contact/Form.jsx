@@ -25,6 +25,7 @@ export default function Form() {
   const {
     register,
     handleSubmit,
+    reset,
     formState: { errors },
   } = useForm();
 
@@ -51,6 +52,7 @@ export default function Form() {
               id: toastId,
             }
           );
+          reset();
         },
         (error) => {
           console.log("FAILED...", error.text);
