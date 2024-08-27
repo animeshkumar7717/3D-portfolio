@@ -3,7 +3,7 @@
 Welcome to my portfolio! This project is a simple yet elegant representation of my skills, projects, and professional journey. It also features an overview of my GitHub stats, providing insights into my contributions and activities.
 
 ## ✨ Features
-- **GitHub Stats Overview 📊:** See my GitHub activity, contributions, and stats.
+- **GitHub Stats Overview 📊:** See my  GitHub activity, contributions, and stats.
 - **Projects Showcase 🛠️:** Explore the projects I’ve worked on, including descriptions, technologies used, and links to the repositories.
 - **Skills and Expertise 🧠:** A detailed list of my skills and areas of expertise.
 - **About Me 🧑‍💻:** Learn more about my background, interests, and professional journey.
