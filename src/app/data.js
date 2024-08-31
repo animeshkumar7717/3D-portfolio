@@ -1,6 +1,13 @@
 export const projectsData = [
   {
     id: 0,
+    name: "Health-Care",
+    description: "create a patient healthcare to book an appointment with doctor ",
+    date: "2024-08-31",
+    demoLink: "https://health-care-six-beta.vercel.app/",
+  },
+  {
+    id: 0,
     name: "Blog",
     description: "create, post and read blogs using next, quill and tailwind ",
     date: "2024-08-15",
