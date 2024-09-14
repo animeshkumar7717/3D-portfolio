@@ -1,8 +1,11 @@
+/** @format */
+
 export const projectsData = [
   {
     id: 1,
     name: "Health-Care",
-    description: "create a patient healthcare to book an appointment with doctor ",
+    description:
+      "create a patient healthcare to book an appointment with doctor ",
     date: "2024-08-31",
     demoLink: "https://health-care-six-beta.vercel.app/",
   },
@@ -12,6 +15,14 @@ export const projectsData = [
     description: "create, post and read blogs using next, quill and tailwind ",
     date: "2024-08-15",
     demoLink: "https://blog-hv0s.onrender.com/",
+  },
+  {
+    id: 13,
+    name: "AK-Meeting",
+    description:
+      "create a Meeting application, where user can customize there meeting.",
+    date: "2024-09-14",
+    demoLink: "https://meeing.vercel.app/",
   },
   {
     id: 3,
@@ -115,4 +126,3 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
