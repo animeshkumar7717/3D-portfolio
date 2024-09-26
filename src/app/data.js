@@ -2,6 +2,15 @@
 
 export const projectsData = [
   {
+    id: 14,
+    name: "Book My Show",
+    description:
+      "User can create a meeting with purpose, select date and time and pay for the time ",
+    date: "2024-09-26",
+    demoLink:
+      "https://bookmysession.bunnyfiedlabs.com/User?email=animesh.kumar7717@gmail.com",
+  },
+  {
     id: 1,
     name: "Health-Care",
     description:
