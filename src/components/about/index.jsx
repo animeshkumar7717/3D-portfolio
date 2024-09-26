@@ -1,3 +1,5 @@
+/** @format */
+
 import React from "react";
 import ItemLayout from "./ItemLayout";
 import Link from "next/link";
@@ -11,22 +13,26 @@ const AboutDetails = () => {
             " col-span-full lg:col-span-8 row-span-2 flex-col items-start"
           }
         >
-          <h2 className="text-xl md:text-2xl text-left w-full capitalize" style={{ color: '#FEFE5B' }}>
+          <h2
+            className="text-xl md:text-2xl text-left w-full capitalize"
+            style={{ color: "#FEFE5B" }}
+          >
             Architect of Enchantment
           </h2>
           <p className="font-light text-xs sm:text-sm md:text-base">
-            Embarking on my quest in web development, I have mastered a diverse array of powerful 
-            tools and languages, with JavaScript serving as the core of my magic. With dexterity, 
-            I wield frameworks like React.js and Next.js to forge seamless gateways (websites) that 
-            connect users across the vast expanse of the digital cosmos. My journey also takes me 
-            deep into the realms of Node.js and Express, where I craft robust and scalable applications 
-            using the microservices architecture.
-            
-            Harnessing the timeless principles of the Jamstack and backed by the strength of MongoDB, 
-            I design and optimize databases to ensure every creation is fast, secure, and dynamically engaging. 
-            My keen eye for design ensures that every project I undertake is as visually captivating as it is 
-            functionally robust. Join me as I delve into new technologies and spells, continually shaping the 
-            future landscape of the web.
+            As I embark on my journey in web development, I have mastered a
+            diverse skill set of powerful tools and languages, with JavaScript
+            at the heart of my craft. I leverage frameworks like React.js and
+            Next.js to build seamless and engaging websites that connect users
+            across the digital landscape. My expertise extends to the realms of
+            Node.js and Express, where I design and develop robust, scalable
+            applications using microservices architecture. By embracing the
+            principles of Jamstack and utilizing MongoDB, I create and optimize
+            databases that ensure each project is fast, secure, and dynamically
+            interactive. With a keen eye for design, I strive to make every
+            project not only functionally excellent but also visually stunning.
+            Join me as I explore new technologies and innovations, continually
+            shaping the future of the web.
           </p>
         </ItemLayout>
 
@@ -34,7 +40,7 @@ const AboutDetails = () => {
           className={" col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            15+ <sub className="font-semibold text-base">Clients</sub>
+            25+ <sub className="font-semibold text-base">Clients</sub>
           </p>
         </ItemLayout>
 
@@ -42,8 +48,7 @@ const AboutDetails = () => {
           className={"col-span-full xs:col-span-6 lg:col-span-4 text-accent"}
         >
           <p className="font-semibold w-full text-left text-2xl sm:text-5xl">
-            3+ {" "}
-            <sub className="font-semibold text-base">Years Of Experience</sub>
+            5 <sub className="font-semibold text-base">Years Of Experience</sub>
           </p>
         </ItemLayout>
 
